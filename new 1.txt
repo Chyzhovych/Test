@@ -1,0 +1,24 @@
+Server.c
+
+#ifdef _Linux_
+
+
+
+Server. code linux...
+
+#elif _WIN32
+
+SErver coede wind
+
+#else
+#error  /// 
+#endif
+
+  #ifdef LINUX_KEY_WORD
+    ... // linux code goes here.
+  #elif WINDOWS_KEY_WORD
+    ... // windows code goes here.
+  #else 
+  #error "OS not supported!"
+  #endif
+  "C:/Program Files/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe",
