@@ -6,7 +6,6 @@ Server.c
 
 Server. code linux...
 
-#elif _WIN32
 
 SErver coede wind
 
